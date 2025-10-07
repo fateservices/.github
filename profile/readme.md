@@ -38,10 +38,10 @@
 
 ## 🤝 We're always looking for
 
-- ⚙️ [Clients](https://fateservices.co/)
-- 🧠 [Collaborators](https://fateservices.co/)
-- 💡 [Feedback](https://fateservices.co/)
-- 🧭 [Business Partners](https://fateservices.co/business)
+- [Clients](https://fateservices.co/)
+- [Collaborators](https://fateservices.co/)
+- [Feedback](https://fateservices.co/)
+- [Business Partners](https://fateservices.co/business)
   
 <p align="center">
   <a href="mailto:hello@fateservices.co">
