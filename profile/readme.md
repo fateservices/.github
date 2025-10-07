@@ -27,7 +27,6 @@
 
 ---
 
-<div align="center"> 
 ## 🛠️ Tech Stack
 
 ### 🖥️ Languages
@@ -41,7 +40,6 @@
 <img src="https://img.shields.io/badge/NGINX-009639&logo=nginx&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Git-F05032&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624&logo=linux&logoColor=black" /> 
-</div>
 
 ---
 
