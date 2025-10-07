@@ -6,8 +6,6 @@
 > 🧠 Systems-Driven  
 > 🧊 Minimalist, Scalable, Private  
 
-</div>
-
 ---
 
 ### 🛠️ What We Build
@@ -28,7 +26,6 @@
 ---
 
 ## 🛠️ Tech Stack
-<div align="center"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript?style=for-the-badge&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF&logo=kotlin?style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-20232A&logo=react?style=for-the-badge&logoColor=61DAFB" /> 
@@ -36,7 +33,6 @@
 <img src="https://img.shields.io/badge/NGINX-009639&logo=nginx?style=for-the-badge&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Git-F05032&logo=git?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624&logo=linux?style=for-the-badge&logoColor=black" /> 
-</div>
 
 ---
 
@@ -57,4 +53,5 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
 </div>
