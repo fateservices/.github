@@ -49,7 +49,7 @@
   
 <p align="center">
   <a href="mailto:hello@fateservices.co">
-    <img src="https://img.shields.io/badge/Email-Us-red&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Us-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>  
 
