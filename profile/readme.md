@@ -40,20 +40,6 @@ High-performance infrastructure and privacy-hardened platforms built for **real 
 <img src="https://img.shields.io/badge/Git-F05032&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624&logo=linux&logoColor=black" /> 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fateservices&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fateservices&theme=graywhite&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateservices&layout=compact&theme=graywhite&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fateservices&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ## 🤝 We're always looking for
