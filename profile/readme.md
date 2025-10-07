@@ -7,6 +7,8 @@ High-performance infrastructure and privacy-hardened platforms built for **real 
 🧠 Systems-Driven  
 🧊 Minimalist, Scalable, Private  
 
+</div>
+
 ---
 
 ### 🛠️ What We Build
@@ -59,5 +61,4 @@ High-performance infrastructure and privacy-hardened platforms built for **real 
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
 </div>
