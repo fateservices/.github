@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fate%20%7C%20Services&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fate%20Services&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 
 High-performance infrastructure and privacy-hardened platforms built for **real humans**.
 
